@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      spr_reeling_0: -1961294342348005087
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

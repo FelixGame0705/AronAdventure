@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      spr_basecharacter_fishing_reeling_0: 7548675222336475286
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

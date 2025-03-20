@@ -309,7 +309,15 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      spr_basecharacter_doing_strip8_0: 1470756514613147356
+      spr_basecharacter_doing_strip8_1: 1799620730601298304
+      spr_basecharacter_doing_strip8_2: -3306269376592053072
+      spr_basecharacter_doing_strip8_3: -3202195232641430366
+      spr_basecharacter_doing_strip8_4: -8856345640230964573
+      spr_basecharacter_doing_strip8_5: -3341866059362823091
+      spr_basecharacter_doing_strip8_6: 8880502809846799375
+      spr_basecharacter_doing_strip8_7: -8321092253819874567
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -384,7 +384,18 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      spr_sword_strip10_0: -3275984221689208128
+      spr_sword_strip10_1: 7903266434643022590
+      spr_sword_strip10_10: -6187332232179523138
+      spr_sword_strip10_2: -4767766899591251786
+      spr_sword_strip10_3: 8853583550196782780
+      spr_sword_strip10_4: 1706106435869659556
+      spr_sword_strip10_5: 8085397664348719002
+      spr_sword_strip10_6: -6445490219534953958
+      spr_sword_strip10_7: 933139586790131009
+      spr_sword_strip10_8: 4828501978083523534
+      spr_sword_strip10_9: 7809128796388357317
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

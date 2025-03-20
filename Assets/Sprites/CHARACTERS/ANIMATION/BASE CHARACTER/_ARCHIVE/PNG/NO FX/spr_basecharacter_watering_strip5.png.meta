@@ -234,7 +234,12 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      spr_basecharacter_watering_strip5_0: 3044939313418607835
+      spr_basecharacter_watering_strip5_1: -6009475492390390488
+      spr_basecharacter_watering_strip5_2: 6379750245669857674
+      spr_basecharacter_watering_strip5_3: 3028009767907271206
+      spr_basecharacter_watering_strip5_4: 7258112511562962140
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

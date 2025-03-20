@@ -434,7 +434,20 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      spr_basecharacter_fishing_reeling_strip13_0: 2908672877005633437
+      spr_basecharacter_fishing_reeling_strip13_1: 9167080512904230886
+      spr_basecharacter_fishing_reeling_strip13_10: -785111574656414213
+      spr_basecharacter_fishing_reeling_strip13_11: 3505119885393458300
+      spr_basecharacter_fishing_reeling_strip13_12: 1032216871149794285
+      spr_basecharacter_fishing_reeling_strip13_2: -6244306458252380425
+      spr_basecharacter_fishing_reeling_strip13_3: -2626815704694931303
+      spr_basecharacter_fishing_reeling_strip13_4: 5282756601618392195
+      spr_basecharacter_fishing_reeling_strip13_5: 310397927403511082
+      spr_basecharacter_fishing_reeling_strip13_6: 6628736627890809338
+      spr_basecharacter_fishing_reeling_strip13_7: 8755231858359246967
+      spr_basecharacter_fishing_reeling_strip13_8: -9166216839783288770
+      spr_basecharacter_fishing_reeling_strip13_9: 7117285906600600539
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

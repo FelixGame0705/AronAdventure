@@ -359,7 +359,17 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      spr_skeleton_jump_strip10_0: -5462547430311026013
+      spr_skeleton_jump_strip10_1: 3765085281673394033
+      spr_skeleton_jump_strip10_2: 7610561391363637250
+      spr_skeleton_jump_strip10_3: 2598144025260529125
+      spr_skeleton_jump_strip10_4: -281382220095179222
+      spr_skeleton_jump_strip10_5: 8911546871156661518
+      spr_skeleton_jump_strip10_6: -8925637007621333043
+      spr_skeleton_jump_strip10_7: -3948223038265791320
+      spr_skeleton_jump_strip10_8: -7575055237330146732
+      spr_skeleton_jump_strip10_9: 6394939172985976440
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

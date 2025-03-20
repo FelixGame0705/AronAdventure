@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &142750462895769057
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1342856695249692074}
+  - component: {fileID: 7532631038712138552}
+  m_Layer: 0
+  m_Name: CutScene
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 0
+--- !u!4 &1342856695249692074
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 142750462895769057}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 26.971132, y: -13.126123, z: -0.21089253}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!320 &7532631038712138552
+PlayableDirector:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 142750462895769057}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_PlayableAsset: {fileID: 11400000, guid: 21b1c06f8ce97f643bf20cc0b26c8f33, type: 2}
+  m_InitialState: 1
+  m_WrapMode: 2
+  m_DirectorUpdateMode: 1
+  m_InitialTime: 0
+  m_SceneBindings:
+  - key: {fileID: -561199187657987362, guid: 21b1c06f8ce97f643bf20cc0b26c8f33, type: 2}
+    value: {fileID: 0}
+  - key: {fileID: 1794486705677232989, guid: 21b1c06f8ce97f643bf20cc0b26c8f33, type: 2}
+    value: {fileID: 0}
+  - key: {fileID: -2802188545405548514, guid: 21b1c06f8ce97f643bf20cc0b26c8f33, type: 2}
+    value: {fileID: 0}
+  - key: {fileID: -1911175242188601497, guid: 21b1c06f8ce97f643bf20cc0b26c8f33, type: 2}
+    value: {fileID: 0}
+  m_ExposedReferences:
+    m_References:
+    - 3c9b4b4e7f274ab4ba9622d50bbb2482: {fileID: 0}
+    - 98e61211a5ce05a4d9bf11483b6618b1: {fileID: 0}
+    - 0f94589eef569b342a735f3fd794c7f6: {fileID: 0}
+    - a6df63ea6468ff44b91c87fcd3edc60e: {fileID: 0}
+    - 9a91628d22dc4d149b694ad3950cd6a7: {fileID: 0}
+    - 135b85142fc6a524dbd1f163322cc1d0: {fileID: 0}
+    - 535bd051711220947aeba2988ed2974e: {fileID: 0}

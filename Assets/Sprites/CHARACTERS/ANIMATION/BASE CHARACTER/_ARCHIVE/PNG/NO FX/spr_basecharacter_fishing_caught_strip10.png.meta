@@ -359,7 +359,17 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      spr_basecharacter_fishing_caught_strip10_0: -1798128615322423288
+      spr_basecharacter_fishing_caught_strip10_1: -3926368321835021871
+      spr_basecharacter_fishing_caught_strip10_2: 6799764923099902135
+      spr_basecharacter_fishing_caught_strip10_3: 2918428612420955804
+      spr_basecharacter_fishing_caught_strip10_4: 6930736331298882426
+      spr_basecharacter_fishing_caught_strip10_5: 5250699043733337082
+      spr_basecharacter_fishing_caught_strip10_6: 5240922968271566256
+      spr_basecharacter_fishing_caught_strip10_7: 2264843058346268749
+      spr_basecharacter_fishing_caught_strip10_8: -1263682690303254849
+      spr_basecharacter_fishing_caught_strip10_9: -5592589420567244836
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

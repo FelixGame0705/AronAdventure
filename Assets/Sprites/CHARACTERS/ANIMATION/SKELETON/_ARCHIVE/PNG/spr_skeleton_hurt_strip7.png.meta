@@ -284,7 +284,14 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      spr_skeleton_hurt_strip7_0: -297003667454776787
+      spr_skeleton_hurt_strip7_1: -4924150796417539808
+      spr_skeleton_hurt_strip7_2: 4427724645710991626
+      spr_skeleton_hurt_strip7_3: -7671734561630046955
+      spr_skeleton_hurt_strip7_4: 5129265320427481782
+      spr_skeleton_hurt_strip7_5: -3354018250691669152
+      spr_skeleton_hurt_strip7_6: 858084916689393492
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

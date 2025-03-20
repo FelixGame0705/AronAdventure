@@ -334,7 +334,16 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      spr_basecharacter_fishing_waiting_strip9_0: -3084880176637169704
+      spr_basecharacter_fishing_waiting_strip9_1: 3313606410364584997
+      spr_basecharacter_fishing_waiting_strip9_2: 5764556053511781826
+      spr_basecharacter_fishing_waiting_strip9_3: -1914516311330620969
+      spr_basecharacter_fishing_waiting_strip9_4: -5966774346680192787
+      spr_basecharacter_fishing_waiting_strip9_5: 1523505554111709500
+      spr_basecharacter_fishing_waiting_strip9_6: 3786402089339044417
+      spr_basecharacter_fishing_waiting_strip9_7: 6714146621651588269
+      spr_basecharacter_fishing_waiting_strip9_8: -8267205706063838590
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

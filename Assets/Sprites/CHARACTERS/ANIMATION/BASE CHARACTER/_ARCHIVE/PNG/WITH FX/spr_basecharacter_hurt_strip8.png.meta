@@ -309,7 +309,15 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      spr_basecharacter_hurt_strip8_0: -9031214170754080109
+      spr_basecharacter_hurt_strip8_1: 2519024696522175005
+      spr_basecharacter_hurt_strip8_2: 6582673694256464047
+      spr_basecharacter_hurt_strip8_3: 8267865215892831434
+      spr_basecharacter_hurt_strip8_4: -3139761161762392432
+      spr_basecharacter_hurt_strip8_5: 1999712883953429957
+      spr_basecharacter_hurt_strip8_6: 1726438517893589855
+      spr_basecharacter_hurt_strip8_7: -5543240850432203525
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

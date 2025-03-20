@@ -384,7 +384,18 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      spr_skeleton_attack_strip7_0: 5464112764478958034
+      spr_skeleton_attack_strip7_1: -8897802765127379749
+      spr_skeleton_attack_strip7_10: -7221199444738544791
+      spr_skeleton_attack_strip7_2: -6052426379055057464
+      spr_skeleton_attack_strip7_3: -5762015612048951988
+      spr_skeleton_attack_strip7_4: 7915676283829343250
+      spr_skeleton_attack_strip7_5: 5173550786571456019
+      spr_skeleton_attack_strip7_6: -5390535247602584199
+      spr_skeleton_attack_strip7_7: -7226251894560898141
+      spr_skeleton_attack_strip7_8: 3898802357467199421
+      spr_skeleton_attack_strip7_9: 6473985287694584292
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

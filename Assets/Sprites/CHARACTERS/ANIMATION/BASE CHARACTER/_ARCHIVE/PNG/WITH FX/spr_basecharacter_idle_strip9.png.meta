@@ -334,7 +334,16 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      spr_basecharacter_idle_strip9_0: 3381042568081118713
+      spr_basecharacter_idle_strip9_1: -1469284010270233320
+      spr_basecharacter_idle_strip9_2: 6892092430932388803
+      spr_basecharacter_idle_strip9_3: -1393151046477584255
+      spr_basecharacter_idle_strip9_4: -3711224430041049089
+      spr_basecharacter_idle_strip9_5: -687213432185339973
+      spr_basecharacter_idle_strip9_6: 4674871481338581062
+      spr_basecharacter_idle_strip9_7: -652554413605243301
+      spr_basecharacter_idle_strip9_8: 4387482067076073398
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

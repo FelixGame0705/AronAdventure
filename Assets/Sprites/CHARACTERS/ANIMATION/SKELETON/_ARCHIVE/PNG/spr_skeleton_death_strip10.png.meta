@@ -559,7 +559,25 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      spr_skeleton_death_strip10_0: -6675249384638127888
+      spr_skeleton_death_strip10_1: -7347878831483097597
+      spr_skeleton_death_strip10_10: -3271319455229284317
+      spr_skeleton_death_strip10_11: -7768585495562622642
+      spr_skeleton_death_strip10_12: 8966758528663913351
+      spr_skeleton_death_strip10_13: 7434823525104941564
+      spr_skeleton_death_strip10_14: 8659464409022965222
+      spr_skeleton_death_strip10_15: 6027382728652123007
+      spr_skeleton_death_strip10_16: 6574105013885530832
+      spr_skeleton_death_strip10_17: 4983157744024492625
+      spr_skeleton_death_strip10_2: -2076340643612393732
+      spr_skeleton_death_strip10_3: 7818310284324957203
+      spr_skeleton_death_strip10_4: -6508996628286732324
+      spr_skeleton_death_strip10_5: -3936829316539107027
+      spr_skeleton_death_strip10_6: 2607454197057670510
+      spr_skeleton_death_strip10_7: 3456356628660246773
+      spr_skeleton_death_strip10_8: -2733264044945261970
+      spr_skeleton_death_strip10_9: 1570873537016404053
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

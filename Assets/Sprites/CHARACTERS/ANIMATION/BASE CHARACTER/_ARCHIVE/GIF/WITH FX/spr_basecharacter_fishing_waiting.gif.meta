@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      spr_basecharacter_fishing_waiting_0: 8248636534062724856
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
